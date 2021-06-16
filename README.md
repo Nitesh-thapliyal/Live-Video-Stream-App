@@ -1,6 +1,6 @@
 ## Live-Stream-App
 
-Live Stream App is a program made using Socket Programming using TCP protocol.
+Live Stream App is a program made using Socket Programming and OpenCV. In Socket Programming TCP protocol is used .
 
 ### Socket Programming
 
@@ -14,6 +14,10 @@ A socket is one endpoint of a two way communication link between two programs ru
 ### TCP protocol
 
 TCP Stands for transmission control protocol that enables application programs and computing devices to exchange messages over a network, it is designed to send packets across the internet and ensure the delivery of the data.
+
+### OpenCV
+
+OpenCV is a library that works with almost all programming languages therefor known as cross-platform library which is mainly used for Image Processing that is used in Computer Vision.
 
 ### Prerequisites:
 - Numpy
