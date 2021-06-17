@@ -24,3 +24,5 @@ OpenCV is a library that works with almost all programming languages therefor kn
 - OpenCv
 
 For the detail explanation read the [blog](https://dev.to/niteshthapliyal/live-video-app-2nf0)
+
+To watch the Demo click on the [link](https://youtu.be/vb3ZSpvszjw)
